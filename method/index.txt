@@ -1,4 +1,4 @@
-2:I[385,["385","static/chunks/385-433ce1712ae86831.js","960","static/chunks/app/method/page-c997304a07434f32.js"],""]
+2:I[385,["385","static/chunks/385-433ce1712ae86831.js","960","static/chunks/app/method/page-130701c73cfc2c2b.js"],""]
 3:I[3512,[],""]
 4:I[5877,[],""]
 5:I[1593,["385","static/chunks/385-433ce1712ae86831.js","185","static/chunks/app/layout-60fd807bcf10c313.js"],"ThemeToggle"]
