@@ -1,4 +1,4 @@
-2:I[385,["690","static/chunks/690-1abb2f36c194ce76.js","960","static/chunks/app/method/page-251d19c9f4293415.js"],""]
+2:I[385,["690","static/chunks/690-1abb2f36c194ce76.js","960","static/chunks/app/method/page-79a68645211363f4.js"],""]
 3:I[3512,[],""]
 4:I[5877,[],""]
 5:"$Sreact.suspense"
