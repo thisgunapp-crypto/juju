@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ko.nalkkul.com/sitemap.xml
+
+#DaumWebMasterTool:57ed9d3d64d83d4f1ebc7f13bdc879c67ade4edf3cbd6ff3e9fa63fd9de77cef:4djnnmDYbaXJEU0i2qqWPQ==
